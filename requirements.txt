@@ -1,0 +1,11 @@
+accelerate
+einops
+huggingface-hub
+pillow >= 9.5.0
+scikit-learn
+scipy
+safetensors
+accelerate
+timm
+pillow-jxl-plugin
+opencv-python
